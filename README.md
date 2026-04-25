@@ -5,3 +5,8 @@
 
 ### Skils:
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,python,lua,git,postgres,redis,docker,linux,tensorflow,vscode&perline=5" />
+  </a>
+</p>
