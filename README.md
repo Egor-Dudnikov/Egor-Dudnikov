@@ -1,17 +1,90 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Egor Dudnikov
-======================================================================================================================================
+# 👋 Hi there!
 
-Student of Computer Science
----------------------------
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-* 🌍  I'm based in Russia, Taganrog
-* ✉️  You can contact me at [edud3747@gmail.com](mailto:edud3747@gmail.com)
-* 🧠  I'm currently learning backend development with Go.
+## My name is Egor Dudnikov
+
+### Student of Computer Science 
+
+---
+
+## 📍 Обо мне / About me
+
+```json
+{
+  "name": "Egor Dudnikov",
+  "location": "Russia, Taganrog",
+  "education": "Southern Federal University (SFedU)",
+  "field": "Computer Science",
+  "currently_learning": "Backend development with Go",
+  "email": "edud3747@gmail.com"
+}
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Egor-Dudnikov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+## 📚 What I'm learning
+
+- 🚀 **Backend development** with Go (Golang)
+- 🗄️ **Databases:** PostgreSQL, Redis
+- 🔐 **Authentication & Security** (JWT, Cookies, bcrypt)
+- 🌐 **REST API** design and implementation
+- 🐳 **Docker** containerization
+
+---
+
+## 📊 GitHub статистика / Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Egor-Dudnikov&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egor-Dudnikov&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📫 Контакты / Contacts
+
+<p align="left">
+  <a href="mailto:edud3747@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Egor-Dudnikov" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+## 🏆 Проекты / Projects
+
+### T-Match Backend
+> Backend сервис для поиска стажировок и вакансий
+
+**Tech:** Go, PostgreSQL, Redis, JWT, Docker
+
+[🔗 Репозиторий](https://github.com/Egor-Dudnikov/T-match_backend)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Egor-Dudnikov&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+---
+
+⭐️ **Спасибо за визит!** / **Thanks for visiting!** ⭐️
