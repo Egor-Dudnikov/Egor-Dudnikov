@@ -8,7 +8,7 @@
 
 ---
 
-## 📍 Обо мне / About me
+## 📍 About me
 
 ```json
 {
