@@ -5,7 +5,7 @@
   <h3>I am a Computer Science student at Southern Federal University.</h3> 
 </p>
 
-<img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/7d96d401-2f7f-45f2-a7a6-2706a62f472c" />
+<img width="1000" height="200" alt="image" src="https://github.com/user-attachments/assets/7d96d401-2f7f-45f2-a7a6-2706a62f472c" />
 
 ### Skils:
 
