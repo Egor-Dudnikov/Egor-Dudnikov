@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <h1>👋 Hi there!</h1> 
-</p>
+</div>
 <p align="center">
   <h3>I am a Computer Science student at Southern Federal University.</h3> 
 </p>
