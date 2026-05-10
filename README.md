@@ -11,6 +11,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,python,lua,git,postgres,redis,linux,tensorflow,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=go,python,lua,git,postgres,redis,linux,tensorflow,vscode,docker&perline=10" />
   </a>
 </p>
